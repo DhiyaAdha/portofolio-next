@@ -3,7 +3,7 @@ import Hero from "@/components/landingPage/Hero";
 export default function Dashboard () {
     return  (
         <div>
-            Dashboard
+            Dashboard t
             <Hero />
         </div>
     )
